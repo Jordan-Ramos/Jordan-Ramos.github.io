@@ -1,0 +1,44 @@
+{
+  "name": "Little Plate",
+  "short_name": "Little Plate",
+  "description": "Private weekly planner for moving a 9-month-old from pouches to the family table.",
+  "id": "/little-plate/",
+  "start_url": "/little-plate/",
+  "scope": "/little-plate/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F3EEE4",
+  "theme_color": "#F3EEE4",
+  "lang": "en",
+  "categories": [
+    "lifestyle",
+    "health",
+    "food"
+  ],
+  "icons": [
+    {
+      "src": "/little-plate/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/little-plate/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/little-plate/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/little-plate/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
